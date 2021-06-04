@@ -6,6 +6,6 @@ give out a picture that contains the words connect to the word of you major titl
 ## 爬取歌词工具
 主要是从网易或者其他音乐平台爬取歌词的爬虫程序
 ## AI歌词生成助手
-最终会生成一个图片文件，形式请参考data目录下的爱情.jpg，字体和图片背景都可以修改，为写歌人和创作人带来灵感。
+最终会生成一个图片文件，形式请参考根目录下的爱情.jpg，字体和图片背景都可以修改，为写歌人和创作人带来灵感。
 
 # 贡献给喜爱创作的你，共勉
