@@ -12,3 +12,5 @@ TXT文件是用到的停用词
 zip文件是我从网易音乐爬的歌词，你可以直接使用，但是需要在代码里修改目录
 
 # 贡献给喜爱创作的你，共勉
+![avatar](https://github.com/king2200/AI_write_chinese_lyric_tool/blob/main/%E7%88%B1%E6%83%85.jpeg)
+
