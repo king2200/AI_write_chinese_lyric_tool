@@ -8,4 +8,7 @@ give out a picture that contains the words connect to the word of you major titl
 ## AI歌词生成助手
 最终会生成一个图片文件，形式请参考根目录下的爱情.jpg，字体和图片背景都可以修改，为写歌人和创作人带来灵感。
 
+TXT文件是用到的停用词
+zip文件是我从网易音乐爬的歌词，你可以直接使用，但是需要在代码里修改目录
+
 # 贡献给喜爱创作的你，共勉
